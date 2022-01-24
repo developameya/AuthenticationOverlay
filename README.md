@@ -1,6 +1,6 @@
 # AuthenticationOverlay
 
-AuthenticationOverlay provides a layer of obscurity over your app's content before prompting for touch ID. 
+AuthenticationOverlay provides a layer of obscurity over your app's content before prompting for authentication. 
 
 **Note:** - Face ID authentication requires user's persmission to be add in info.plist.
 ```swift
