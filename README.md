@@ -18,12 +18,7 @@ AuthenticationOverlay provides a lock screen along with Biometric authentication
 - Automatically locks the app when app is closed.
 
 ![Overlay_startup](https://user-images.githubusercontent.com/66625259/151118433-b9a6d3d5-923a-4ab9-a49f-c928861ce648.gif)
-
-
-https://user-images.githubusercontent.com/66625259/151118646-116101b5-681c-4025-98ff-ac1f527a3cd1.mp4
-
-
-
+![Overlay_appearance](https://user-images.githubusercontent.com/66625259/151119535-bb29bf42-bc58-4091-831f-ccfa0c8fe9b3.gif)
 
 
 ## Requirements
