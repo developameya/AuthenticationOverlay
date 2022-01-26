@@ -13,7 +13,9 @@ AuthenticationOverlay provides a layer of obscurity over your app's content befo
 ## Installation
 
 ## Usage
-AuthenticationOverlay depends on `BiometricAuthentication` package created by. `rushisangani`. You can find the original repository here: (https://github.com/rushisangani/BiometricAuthentication)
+AuthenticationOverlay depends on `BiometricAuthentication` package created by. `rushisangani`. You can find the original repository here: 
+
+(https://github.com/rushisangani/BiometricAuthentication)
 
 Xcode will automatically download the necessary dependacy once you import the package in your product.
 
