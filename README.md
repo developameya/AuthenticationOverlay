@@ -23,6 +23,7 @@ Xcode will automatically download the necessary dependacy once you import the pa
  In your app's SceneDelegate
  
  - import `AuthenticationOverlay'.
+ 
  ```swift
   import 'AuthenticationOverlay' 
   ```
