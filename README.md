@@ -1,6 +1,6 @@
 # AuthenticationOverlay
 
-AuthenticationOverlay provides a layer of obscurity over your app's content before prompting for touch ID.
+AuthenticationOverlay provides a layer of obscurity over your app's content before prompting for authentication. 
 
 **Note:** - Face ID authentication requires user's persmission to be add in info.plist.
 ```swift
@@ -37,7 +37,7 @@ Xcode will automatically download the necessary dependacy once you import the pa
  - import 'AuthenticationOverlay'.
  
  ```swift
-  import 'AuthenticationOverlay' 
+  import 'AuthenticationOverlay'
   ```
   - Add `AuthentictionOverlayViewController.shared.insert()` in `sceneWillEnterForeground` and `sceneDidEnterBackground` methods.
   

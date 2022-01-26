@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BiometricAuthentication",
+        "repositoryURL": "https://github.com/developameya/BiometricAuthentication.git",
+        "state": {
+          "branch": null,
+          "revision": "08ea3004ee26d7d56668b500aff902c6a2fd14b2",
+          "version": "3.1.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
