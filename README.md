@@ -17,6 +17,13 @@ AuthenticationOverlay provides a lock screen along with Biometric authentication
 - Works in any orientation.
 - Automatically locks the app when app is closed.
 
+![Overlay_startup](https://user-images.githubusercontent.com/66625259/151118433-b9a6d3d5-923a-4ab9-a49f-c928861ce648.gif)
+
+
+https://user-images.githubusercontent.com/66625259/151118460-f31b8b76-db64-43b8-8c0d-a0918a0d95ca.mp4
+
+
+
 ## Requirements
 - iOS 14.1 or higher
 - Xcode 12.0+
