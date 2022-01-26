@@ -1,6 +1,6 @@
 # AuthenticationOverlay
 
-AuthenticationOverlay provides a layer of obscurity over your app's content before prompting for authentication. 
+AuthenticationOverlay provides a lock screen along with Biometric authentication.
 
 **Note:** - Face ID authentication requires user's persmission to be add in info.plist.
 ```swift
@@ -12,6 +12,10 @@ AuthenticationOverlay provides a layer of obscurity over your app's content befo
 - Works with Apple Touch ID and Face ID devices.
 - Predefined error handling when recognition failed, adapted from the dependacy.
 - Can be enabled or disabled within any class. Useful for providing user with option for biometric authentication.
+- Adapts to the appearance of the device.
+- Provides a button to call biometric authentication on the lock screen.
+- Works in any orientation.
+- Automatically locks the app when app is closed.
 
 ## Requirements
 - iOS 14.1 or higher
